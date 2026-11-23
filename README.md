@@ -5,3 +5,5 @@ if(robot.prendColis){
   robot.poserColis(emplacement);
   printf("Merci d'avoir jouer au jeu!\n");
 }
+int robot (){
+printf(slectioner le robot)      /*partie de code a finir par francois */
